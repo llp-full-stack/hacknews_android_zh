@@ -1,0 +1,2 @@
+# hacknews_android_zh
+hacknews的android客户端，自己阅读了大部分源码，并结合Square进行了自己的理解，欢迎与诸位交流
